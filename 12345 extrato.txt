@@ -1,0 +1,6 @@
+Nome: Thiago Kimura
+CPF: 12345
+Tipo da conta: salario
+Data: 16/10/2021 10:25 + 100.00 Tarifa: 0.00 Saldo:  100.00
+Data: 16/10/2021 10:29 - 10.0 Tarifa: 0.50 Saldo: 89.50
+Data: 16/10/2021 11:12 + 100.0 Tarifa: 0.00 Saldo: 189.5
